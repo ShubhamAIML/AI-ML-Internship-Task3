@@ -150,7 +150,4 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the existing style and includes tests if applicable.
 
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 **Happy predicting!** 🎉 If you encounter issues or have questions, feel free to open an issue on the repository.
