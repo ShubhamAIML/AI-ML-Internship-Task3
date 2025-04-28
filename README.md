@@ -2,7 +2,7 @@
 
 This project implements a machine learning pipeline to predict housing prices using linear regression models, based on the Housing.csv dataset. The code performs data preprocessing, feature engineering, model training, evaluation, and visualization, comparing simple and multiple linear regression models.
 
-Run the analysis on : [Colab Notebook](https://colab.research.google.com/drive/1KVXxmDTE7KpyCdUcjVpWxkF0vRkjtJuW?usp=sharing)  
+Run the analysis on : [Colab Notebook](https://colab.research.google.com/drive/1KVXxmDTE7KpyCdUcjVpWxkF0vRkjtJuW?usp=sharing) , [Kaggle Notebook](https://www.kaggle.com/code/shubham1921/housing-price-prediction-model)  
 
 ## Project Overview ℹ️
 The goal of this project is to predict housing prices (in INR) using features such as area, number of bedrooms, and amenities like air conditioning and furnishing status. The code employs:
