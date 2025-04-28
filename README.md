@@ -2,19 +2,7 @@
 
 This project implements a machine learning pipeline to predict housing prices using linear regression models, based on the Housing.csv dataset. The code performs data preprocessing, feature engineering, model training, evaluation, and visualization, comparing simple and multiple linear regression models.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Pipeline Steps](#pipeline-steps)
-- [Outputs](#outputs)
-- [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
+Run the analysis on : [Colab Notebook](https://colab.research.google.com/drive/1KVXxmDTE7KpyCdUcjVpWxkF0vRkjtJuW?usp=sharing)  
 
 ## Project Overview ℹ️
 The goal of this project is to predict housing prices (in INR) using features such as area, number of bedrooms, and amenities like air conditioning and furnishing status. The code employs:
@@ -63,7 +51,7 @@ housing-price-prediction/
 │
 ├── housing_prediction.py       🐍 Main Python script with the pipeline
 ├── README.md                   📝 Project documentation (this file)
-└── LICENSE                     📜 License file (if applicable)
+└── task 3.pdf                  📜 pdf file (Task)
 ```
 
 **Notes**:
