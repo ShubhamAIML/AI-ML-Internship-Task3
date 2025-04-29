@@ -37,7 +37,7 @@ The dataset (`Housing.csv`) contains housing data with the following columns:
 
 ## Folder Structure 📁
 ```
-housing-price-prediction/
+AI-ML-Internship-Task3/
 │
 ├── data/                       📂 Directory for dataset files
 │   └── Housing.csv             📊 Input dataset with housing data
